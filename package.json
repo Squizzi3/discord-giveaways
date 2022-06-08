@@ -1,6 +1,6 @@
 {
-  "name": "discord-giveaways",
-  "version": "5.2.1",
+  "name": "@Squizzi3/discord-giveaways",
+  "version": "5.2.2",
   "description": "A complete framework to facilitate the creation of giveaways using discord.js",
   "main": "index.js",
   "types": "typings/index.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Androz2091/discord-giveaways.git"
+    "url": "git+https://github.com/Squizzi3/discord-giveaways.git"
   },
   "keywords": [
     "discord",

@@ -845,7 +845,7 @@ class Giveaway extends EventEmitter {
                         }
                     }
                 } else if (message?.length <= 2000) {
-                    await channel
+                    /*await channel
                         .send({
                             content: message,
                             components,
@@ -858,7 +858,7 @@ class Giveaway extends EventEmitter {
                                 failIfNotExists: false
                             }
                         })
-                        .catch(() => {});
+                        .catch(() => {});*/
                 }
             } else {
                 const embed1 = this.manager.generateNoValidParticipantsEndEmbed(this);
